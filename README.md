@@ -1,7 +1,3 @@
-Sure! Here's your project brief converted into a clean and organized `README.md` format with a checklist:
-
----
-
 # 📘 CSC615M Project 1: Text Cleaning
 
 **Course**: Automata, Computability, and Formal Languages
