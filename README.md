@@ -18,13 +18,9 @@ This project is aligned with **Learning Outcome 6 (LO6)** — to **develop forma
 
 ### 📂 1. Data Selection
 
-* [ ] Select **Bible texts** from an online/electronic source
-* [ ] Retrieval methods may include:
-
-  * [ ] Highlight-copy-paste
-  * [ ] Downloading source files
-  * [ ] Using a scraping app
-* [ ] Ensure **at least 100,000 words** per individual (see rubric below)
+* [x] Select **Bible texts** from an online/electronic source
+* [x] Downloading source files
+* [x] Ensure **at least 100,000 words** per individual (see rubric below)
 
 ---
 
