@@ -1,0 +1,4 @@
+.aider*
+*.pdf
+*.md
+!README.md
