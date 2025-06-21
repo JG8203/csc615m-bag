@@ -1,0 +1,21 @@
+[project]
+name = "csc615m-bag"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Joshua Armaine Gilo",email = "joshuaarmainegerzangilo@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pymupdf4llm (>=0.0.25,<0.0.26)",
+    "requests (>=2.32.4,<3.0.0)",
+    "tqdm (>=4.67.1,<5.0.0)",
+    "jupyterlab (>=4.4.3,<5.0.0)",
+    "jupyterlab-git (>=0.51.2,<0.52.0)"
+]
+package-mode=false
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
